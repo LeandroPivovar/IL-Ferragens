@@ -1,0 +1,9 @@
+.git/
+.aroe-crm.json
+.taste-skill/
+.vercel/
+.sites-checkout/
+.sites-runtime/
+.env
+.env.*
+*.log
